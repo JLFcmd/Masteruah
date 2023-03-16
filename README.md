@@ -31,6 +31,27 @@ git clone</li>
 
 
 </tr>
+  <tr>
+
+<td>Cracker</td>
+<td>[GitHub](https://github.com/Crackersssss)</td>
+
+
+</tr>
+  <tr>
+
+<td>Forcebrute08</td>
+<td>[GitHub](https://github.com/Forcebrute08)</td>
+
+
+</tr>
+  <tr>
+
+<td>KarlPolen</td>
+<td>[GitHub](https://github.com/karlpolen)</td>
+
+
+</tr>
 
 
 </table>
