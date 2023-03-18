@@ -73,10 +73,40 @@ git clone</li>
      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/4.png"> <br>
      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/5.png"> <br>
      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/6.png"> <br>
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/7.png"> <br>
   </li>
   <li>nos guardamos en favoritos una publicacion de cualquier compañero:
-   <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/7.png"> <br></li>
-  <li></li>
+      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/8.png"> <br>
+   </li>
+  <li>seguido de esto vamos a meter una tabla con 3 usuarios dentro del readme.md:
+      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/10.png"> <br>
+      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/11.png"> <br>
+  </li>
+  <li>en la actividad de los colaboradores vamos a agregar a alvaro como uno:
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/12.png"> <br></li>
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/13.png"> <br>
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/14.png"> <br>
+  
+  <li>y seguido creamos una organizacion: <br>
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/15.png"> <br>
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/16.png"> <br></li>
+  <li> creamos un equipo admins y otro colabs: <br>
+     <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/17.png"> <br>
+     <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/18.png"> <br>
+     <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/19.png"> <br>
+  </li>
+  <li>seguido de todos estos pasos vamos a crear un nuevo repositorio sin el readme.md con un nuevo index.md creado por nosotros <br> 
+  <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/20.png"> <br>
+    
+  </li>
+  <li>y hacemos los forks para peticiones de edicion a otro usuario, ademas de ver los nuestros: <br>
+  <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/21.png"> <br>
+      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/22.png"> <br>
+      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/23.png"> <br>
+      <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/24.png"> <br>
+  </li>
+
+  
   
 </ol>
 
