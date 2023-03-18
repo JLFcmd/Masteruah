@@ -62,7 +62,9 @@ git clone</li>
     git tag v0.2<br>
     git branch -D v0.2
   </li>
-  <li></li>
+  <li>cambiamos la foto de perfil <br>
+  <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/1.png">
+  </li>
   <li></li>
   <li></li>
   <li></li>
