@@ -65,9 +65,17 @@ git clone</li>
   <li>cambiamos la foto de perfil <br>
   <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/1.png">
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>le ponemos a la cuenta la verificacion en dos pasos: <br>
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/2.png">
+  </li>
+  <li>tenemos que crear la clave ssh para poder activarlo en nuestro github con las siguientes capturas de estos comandos: <br>
+    <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/3.png"> <br>
+     <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/4.png"> <br>
+     <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/5.png"> <br>
+     <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/6.png"> <br>
+  </li>
+  <li>nos guardamos en favoritos una publicacion de cualquier compañero:
+   <img src="https://github.com/JLFcmd/Masteruah/blob/main/img/7.png"> <br></li>
   <li></li>
   
 </ol>
